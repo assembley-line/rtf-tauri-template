@@ -2,6 +2,14 @@
 
 ## Development
 
+Install the dependencies:
+
+```sh
+npm i
+```
+
+You must do this first
+
 Run the application:
 
 ```sh
