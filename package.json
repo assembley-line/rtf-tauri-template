@@ -10,7 +10,8 @@
     "start": "remix-serve ./build/server/index.js",
     "typecheck": "tsc",
     "tauri": "tauri",
-    "app": "tauri dev"
+    "app": "tauri dev",
+    "compile": "tauri build"
   },
   "dependencies": {
     "@remix-run/node": "^2.15.2",
